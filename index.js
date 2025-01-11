@@ -49,7 +49,7 @@ module.exports = plugin(
           borderRadius: '4px',
         },
         '&::-webkit-scrollbar-thumb': {
-          backgroundColor: 'rgba(0,0,0,.1)',
+          backgroundColor: 'rgba(176, 176, 176, 1)',
         },
       },
       // 가로를 의도적으로 사용할때 애니메이션 추가
@@ -65,7 +65,7 @@ module.exports = plugin(
           borderRadius: '4px',
         },
         '&::-webkit-scrollbar-thumb': {
-          backgroundColor: 'rgba(0,0,0,.1)',
+          backgroundColor: 'rgba(176, 176, 176, 1)',
         },
         '&::after': {
           content: "''",
@@ -97,7 +97,7 @@ module.exports = plugin(
           borderRadius: '4px',
         },
         '&::-webkit-scrollbar-thumb': {
-          backgroundColor: 'rgba(0,0,0,.1)',
+          backgroundColor: 'rgba(176, 176, 176, 1)',
         },
         '&::after': {
           content: "''",
